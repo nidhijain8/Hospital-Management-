@@ -80,6 +80,7 @@ Key Performance Indicators
 The original dataset does not specify the billing currency. INR is used as an assumed display format, not as a verified currency conversion.
 
  Dashboard Preview
+ ![Hospital Management Dashboard](dashboard.png)
 
 The Power BI dashboard provides an overview of patient admissions and related healthcare information.
 The dashboard includes:
